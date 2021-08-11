@@ -2,6 +2,7 @@
     FirstColor : #08526d
     SecondColor : #ec1c23
     SecondColor : #bfc6c9
+    SecondColor : #8c8c8c
 */
 
 /*Start upper bar*/
@@ -121,15 +122,51 @@ padding: 100px 0;
 }
 
 .features h3{
-    font-size: 20px;
+    font-size: 18px;
     color: #08526d;
 }
 
 .features p{
-    color: #6e6e6e;
+    color: #8c8c8c;
     margin-bottom: 30px;
 }
 
+/*End Features*/
+
+/*Start company overview*/
+.company{
+    background-color: #eff2f3;
+    padding: 100px;
+}
+.company h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #000;
+}
+
+.company h4{
+    color: #8c8c8c;
+    font-family: "Agency FB", serif;
+}
+
+.company p{
+    font-size: 18px;
+    color: #8c8c8c;
+    line-height: 2;
+}
+.company button{
+    text-transform: uppercase;
+    background-color: #ec1c23;
+    color: #FFF;
+    border: none;
+    font-size: 16px;
+    padding: 5px 25px;
+    margin-top: 20px;
+    box-shadow: #8c8c8c;
+}
+/*End company overview*/
+/*End Features*/
+/*End Features*/
 /*End Features*/
 
 
