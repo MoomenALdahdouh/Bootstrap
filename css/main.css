@@ -7,7 +7,7 @@
 
 /*Start upper bar*/
 body {
-    height: 6000px;
+    height: 10000px;
 }
 
 .upper-bar {
@@ -215,34 +215,37 @@ body {
     margin: 50px 0;
 }
 
-.featured-work .shuffle-images .row{
+.featured-work .shuffle-images .row {
     margin: 0;
 }
 
-.featured-work .shuffle-images .row .col-sm{
+.featured-work .shuffle-images .row .col-sm {
     padding: 0;
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -o-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
 }
-.featured-work .shuffle-images .row img{
+
+.featured-work .shuffle-images .row img {
     width: 100%;
 }
 
-.featured-work ul li:hover{
+.featured-work ul li:hover {
     cursor: pointer;
 }
+
 /*End featured work*/
 
 /*Start Latest post*/
-.latest-post .card{
+.latest-post .card {
     margin-bottom: 30px;
 }
 
-.latest-post .row{
+.latest-post .row {
     margin: 0;
 }
+
 .latest-post {
     margin-top: 70px;
     margin-bottom: 70px;
@@ -260,30 +263,32 @@ body {
     margin: 0 auto 50px;
 }
 
-.latest-post .card h5{
+.latest-post .card h5 {
     color: #08526d;
 
 }
-.latest-post .card h6{
+
+.latest-post .card h6 {
     color: #acacac;
     font-size: 12px;
 }
 
-.latest-post .card p{
+.latest-post .card p {
     color: #666666;
     font-size: 16px;
 }
 
-.latest-post .card a{
+.latest-post .card a {
     color: #ec1c23;
     text-decoration: none;
     font-weight: bold;
     font-size: 14px;
 }
+
 /*End Latest post*/
 
 /*Start Testimonials*/
-.personal-info{
+.personal-info {
     z-index: 1;
     position: relative;
     color: white;
@@ -300,22 +305,24 @@ body {
     z-index: 0;
 }
 
-.personal-info img{
+.personal-info img {
     width: 130px;
     height: 130px;
 }
 
-.personal-info h4{
+.personal-info h4 {
     margin-top: 15px;
 }
-.personal-info h6{
+
+.personal-info h6 {
     color: #d9d9d9;
 }
 
-.personal-info p{
+.personal-info p {
     margin-top: 40px;
 }
 
+/*End Testimonials*/
 
 /*Start Pricing*/
 .pricing-table {
@@ -323,17 +330,17 @@ body {
     background-color: #e7e7e7;
 }
 
-.pricing-table .card{
+.pricing-table .card {
     margin-bottom: 30px;
     padding: 40px 0;
 }
 
-.pricing-table .corporate-card{
+.pricing-table .corporate-card {
     padding: 30px 0 50px 0;
     top: -10px;
 }
 
-.pricing-table .row{
+.pricing-table .row {
     margin: 0;
 }
 
@@ -354,49 +361,49 @@ body {
     padding: 0 0;
 }
 
-.pricing-table .card h5{
+.pricing-table .card h5 {
     color: #08526d;
 }
 
-.pricing-table .card h3{
+.pricing-table .card h3 {
     padding: 8px 0;
     color: #08526d;
     background-color: #f5f5f5;
 
 }
 
-.pricing-table .card h2{
+.pricing-table .card h2 {
     padding: 8px 0;
     color: #FFF;
     background-color: #ec1c23;
 }
 
-.pricing-table .card h3 > span{
+.pricing-table .card h3 > span {
     padding: 8px 0;
     font-size: 10px;
 }
 
-.pricing-table .card h2 > span{
+.pricing-table .card h2 > span {
     padding: 8px 0;
     font-size: 10px;
 }
 
 
-.pricing-table .corporate-card h3 .corporate-h3{
+.pricing-table .corporate-card h3 .corporate-h3 {
     background-color: #ec1c23;
 }
 
-.pricing-table .card h6{
+.pricing-table .card h6 {
     color: #acacac;
     font-size: 12px;
 }
 
-.pricing-table .card p{
+.pricing-table .card p {
     color: #666666;
     font-size: 16px;
 }
 
-.pricing-table .card a{
+.pricing-table .card a {
     color: #FFF;
     text-decoration: none;
     font-weight: bold;
@@ -406,7 +413,7 @@ body {
     text-transform: uppercase;
 }
 
-.pricing-table .corporate-card a{
+.pricing-table .corporate-card a {
     color: #FFF;
     text-decoration: none;
     font-weight: bold;
@@ -415,10 +422,50 @@ body {
     padding: 6px 25px;
     text-transform: uppercase;
 }
+
 /*End Pricing*/
 
+/*Start Why choose us*/
 
-/*End Testimonials*/
+.why-choose-us img {
+    max-width: 100%;
+}
+
+.why-choose-us .content {
+    padding: 0;
+}
+
+.why-choose-us .content:last-child {
+    background-color: #08526d;
+    color: #FFF;
+    padding: 70px 70px 70px 40px;
+}
+
+.why-choose-us a {
+    background-color: #ec1c23;
+    color: #FFF;
+    padding: 8px 20px 8px 20px;
+    text-decoration: none;
+    top: 50px;
+    position: relative;
+}
+
+.why-choose-us p {
+    margin-top: 40px;
+    line-height: 2;
+}
+
+.why-choose-us h1 {
+
+}
+/*End Why choose us*/
+
+/*End Why choose us*/
+
+/*End Why choose us*/
+
+/*End Why choose us*/
+/*End Why choose us*/
 
 
 
