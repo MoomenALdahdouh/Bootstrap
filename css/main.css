@@ -461,7 +461,23 @@ body {
 /*End Why choose us*/
 
 /*End Why choose us*/
+.statistics{
+    margin-top: 100px;
+}
+.statistics i{
+    color: #08526d;
+}
 
+.statistics h1{
+    color: #08526d;
+    font-weight: bold;
+}
+.statistics h6{
+    color: #ec1c23;
+    font-style: italic;
+    position: relative;
+    top: -8px;
+}
 /*End Why choose us*/
 
 /*End Why choose us*/
