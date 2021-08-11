@@ -480,8 +480,26 @@ body {
 }
 /*End Why choose us*/
 
-/*End Why choose us*/
-/*End Why choose us*/
+/*End Contact us*/
+.contact-with-us{
+    padding: 50px 200px;
+    background-color: #ec1c23;
+    font-size: 18px;
+    color: #FFF;
+}
+
+.contact-with-us a{
+    border: 2px solid #FFF;
+    padding: 8px 20px;
+    color: #FFF;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+
+
+/*End Contact us*/
 
 
 

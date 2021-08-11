@@ -19,10 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1ab7d1e-dcff-4c5b-885f-4e55749f3fc0" name="Default Changelist" comment="Bootstrap Why choose us section">
+    <list default="true" id="f1ab7d1e-dcff-4c5b-885f-4e55749f3fc0" name="Default Changelist" comment="Bootstrap Statistics section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.6.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-3.6.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +88,7 @@
       <workItem from="1628578068946" duration="7130000" />
       <workItem from="1628592402985" duration="4257000" />
       <workItem from="1628602143725" duration="7723000" />
-      <workItem from="1628642267636" duration="40945000" />
+      <workItem from="1628642267636" duration="44470000" />
     </task>
     <task id="LOCAL-00001" summary="Bootstrap UpperBar, NavBar and Slider">
       <created>1628651973040</created>
@@ -137,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628686738075</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Bootstrap Statistics section">
+      <created>1628687862139</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1628687862139</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +172,8 @@
     <MESSAGE value="Bootstrap Testimonials section" />
     <MESSAGE value="Bootstrap Pricing section" />
     <MESSAGE value="Bootstrap Why choose us section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bootstrap Why choose us section" />
+    <MESSAGE value="Bootstrap Statistics section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bootstrap Statistics section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="526" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1628642765498">
@@ -190,10 +200,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1628669463152" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628686739080">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628687863327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628686739080" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628687863327" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1628636609047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
