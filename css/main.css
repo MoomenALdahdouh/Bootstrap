@@ -6,7 +6,7 @@
 */
 
 /*Start upper bar*/
-body{
+body {
     height: 3000px;
 }
 
@@ -110,8 +110,8 @@ body{
 /*End Slider*/
 
 /*Start Features*/
-.features{
-padding: 100px 0;
+.features {
+    padding: 100px 0;
 }
 
 .features i {
@@ -121,12 +121,12 @@ padding: 100px 0;
     margin-bottom: 15px;
 }
 
-.features h3{
+.features h3 {
     font-size: 18px;
     color: #08526d;
 }
 
-.features p{
+.features p {
     color: #8c8c8c;
     margin-bottom: 30px;
 }
@@ -134,27 +134,29 @@ padding: 100px 0;
 /*End Features*/
 
 /*Start company overview*/
-.company{
+.company {
     background-color: #eff2f3;
     padding: 100px;
 }
-.company h1{
+
+.company h1 {
     text-transform: uppercase;
     font-weight: bold;
     color: #000;
 }
 
-.company h4{
+.company h4 {
     color: #8c8c8c;
     font-family: "Agency FB", serif;
 }
 
-.company p{
+.company p {
     font-size: 18px;
     color: #8c8c8c;
     line-height: 2;
 }
-.company button{
+
+.company button {
     text-transform: uppercase;
     background-color: #ec1c23;
     color: #FFF;
@@ -164,9 +166,76 @@ padding: 100px 0;
     margin-top: 20px;
     box-shadow: #8c8c8c;
 }
-/*End company overview*/
+
+/*Start featured work*/
+.featured-work {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.featured-work h1 {
+    font-weight: bold;
+    color: #000;
+}
+
+.featured-work p {
+    font-size: 18px;
+    color: #8c8c8c;
+    line-height: 2;
+    margin: 20px 100px 50px;
+}
+
+.featured-work ul {
+    margin: 10px;
+}
+
+.featured-work ul li {
+    color: #08526d;
+    background-color: #FFF;
+    border: 2px solid #08526d;
+    margin: 4px;
+    padding: 10px 0;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.featured-work ul li.active,
+.featured-work ul li:hover {
+    background-color: #ec1c23;
+    border: 2px solid #ec1c23;
+    color: #FFF;
+}
+
+.featured-work .shuffle-images {
+    margin: 50px 0;
+}
+
+.featured-work .shuffle-images .row{
+    margin: 0;
+}
+
+.featured-work .shuffle-images .row .col-sm{
+    padding: 0;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+}
+.featured-work .shuffle-images .row img{
+    width: 100%;
+}
+
+.featured-work ul li:hover{
+    cursor: pointer;
+}
+/*End featured work*/
 /*End Features*/
-/*End Features*/
+
 /*End Features*/
 
 
