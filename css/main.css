@@ -317,6 +317,107 @@ body {
 }
 
 
+/*Start Pricing*/
+.pricing-table {
+    padding: 100px;
+    background-color: #e7e7e7;
+}
+
+.pricing-table .card{
+    margin-bottom: 30px;
+    padding: 40px 0;
+}
+
+.pricing-table .corporate-card{
+    padding: 30px 0 50px 0;
+    top: -10px;
+}
+
+.pricing-table .row{
+    margin: 0;
+}
+
+.pricing-table h1 {
+    font-weight: bold;
+    color: #000;
+}
+
+.pricing-table .header p {
+    font-size: 18px;
+    color: #666666;
+    line-height: 2;
+    margin: 0 auto 70px;
+}
+
+.pricing-table .card-body {
+    flex: 1 1 auto;
+    padding: 0 0;
+}
+
+.pricing-table .card h5{
+    color: #08526d;
+}
+
+.pricing-table .card h3{
+    padding: 8px 0;
+    color: #08526d;
+    background-color: #f5f5f5;
+
+}
+
+.pricing-table .card h2{
+    padding: 8px 0;
+    color: #FFF;
+    background-color: #ec1c23;
+}
+
+.pricing-table .card h3 > span{
+    padding: 8px 0;
+    font-size: 10px;
+}
+
+.pricing-table .card h2 > span{
+    padding: 8px 0;
+    font-size: 10px;
+}
+
+
+.pricing-table .corporate-card h3 .corporate-h3{
+    background-color: #ec1c23;
+}
+
+.pricing-table .card h6{
+    color: #acacac;
+    font-size: 12px;
+}
+
+.pricing-table .card p{
+    color: #666666;
+    font-size: 16px;
+}
+
+.pricing-table .card a{
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #ec1c23;
+    padding: 6px 25px;
+    text-transform: uppercase;
+}
+
+.pricing-table .corporate-card a{
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #08526d;
+    padding: 6px 25px;
+    text-transform: uppercase;
+}
+/*End Pricing*/
+
+
 /*End Testimonials*/
 
 
