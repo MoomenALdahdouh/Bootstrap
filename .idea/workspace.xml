@@ -19,17 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1ab7d1e-dcff-4c5b-885f-4e55749f3fc0" name="Default Changelist" comment="Bootstrap Company overview section">
-      <change afterPath="$PROJECT_DIR$/img/f-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Bootstrap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bootstrap.iml" afterDir="false" />
+    <list default="true" id="f1ab7d1e-dcff-4c5b-885f-4e55749f3fc0" name="Default Changelist" comment="Bootstrap featured work section">
+      <change afterPath="$PROJECT_DIR$/img/bg-profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/profile.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -96,7 +88,7 @@
       <workItem from="1628578068946" duration="7130000" />
       <workItem from="1628592402985" duration="4257000" />
       <workItem from="1628602143725" duration="7723000" />
-      <workItem from="1628642267636" duration="24096000" />
+      <workItem from="1628642267636" duration="33922000" />
     </task>
     <task id="LOCAL-00001" summary="Bootstrap UpperBar, NavBar and Slider">
       <created>1628651973040</created>
@@ -119,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628657643807</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Bootstrap featured work section">
+      <created>1628670357444</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628670357444</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +140,8 @@
     <MESSAGE value="Bootstrap UpperBar, NavBar and Slider" />
     <MESSAGE value="Bootstrap Features section" />
     <MESSAGE value="Bootstrap Company overview section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bootstrap Company overview section" />
+    <MESSAGE value="Bootstrap featured work section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bootstrap featured work section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="526" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1628642765498">
@@ -168,10 +168,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1628669463152" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628657675467">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628670359127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628657675467" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628670359127" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1628636609047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
