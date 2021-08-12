@@ -5,11 +5,26 @@
     SecondColor : #666666
 */
 
+body {
+    margin: 0;
+    padding: 0;
+}
+
 /*Start upper bar*/
 .upper-bar {
     background-color: #08526d;
     color: #FFF;
-    padding: 10px;
+}
+
+.upper-bar .info {
+    margin: 15px 0;
+}
+
+@media (max-width: 576px) {
+    /*media to remove margin bottom when small device "if width small than 476px"*/
+    .upper-bar .info:first-child {
+        margin-bottom: 0;
+    }
 }
 
 .upper-bar .row {
@@ -86,15 +101,23 @@
     z-index: 1;
 }
 
-.carousel-inner h1 {
+.slide .carousel-inner h1 {
     position: absolute;
     font-size: 4vw;
     color: white;
     z-index: 2;
     line-height: 1.6;
+    left: 130px;
+}
 
-    right: 30%;
-    left: 15%;
+@media (max-width: 768px) {
+    /*media to remove center text when small device "if width small than 476px"*/
+    .slide .carousel-inner h1 {
+        position: absolute;
+        text-align: center;
+        left: 0;
+        right: 0;
+    }
 }
 
 .carousel-inner h1 span {
@@ -139,6 +162,18 @@
     text-transform: uppercase;
     font-weight: bold;
     color: #000;
+}
+
+@media (max-width: 768px) {
+    /*media to resize text when small device "if width small than 476px"*/
+    .company h1 {
+        font-size: 25px;
+    }
+}
+@media (max-width: 576px) {
+    .company h1 {
+        font-size: 18px;
+    }
 }
 
 .company h4 {
@@ -315,7 +350,7 @@
 }
 
 .personal-info p {
-    margin-top: 40px;
+    margin: 30px 80px;
 }
 
 /*End Testimonials*/
@@ -422,9 +457,10 @@
 /*End Pricing*/
 
 /*Start Why choose us*/
-.why-choose-us{
+.why-choose-us {
     background-color: #08526d;
 }
+
 .why-choose-us img {
     max-width: 100%;
 }
@@ -456,58 +492,72 @@
 .why-choose-us h1 {
 
 }
+
 /*End Why choose us*/
 
 /*End Why choose us*/
-.statistics{
+.statistics {
     margin-top: 100px;
 }
-.statistics i{
+
+.statistics i {
     color: #08526d;
 }
 
-.statistics h1{
+.statistics h1 {
     color: #08526d;
     font-weight: bold;
 }
-.statistics h6{
+
+.statistics h6 {
     color: #ec1c23;
     font-style: italic;
     position: relative;
     top: -8px;
 }
+
 /*End Why choose us*/
 
 /*End Contact us*/
-.contact-with-us{
-    padding: 50px 200px;
+.contact-with-us {
+    padding: 50px 50px;
     background-color: #ec1c23;
     font-size: 18px;
     color: #FFF;
 }
 
-.contact-with-us a{
-    border: 2px solid #FFF;
+.contact-with-us a {
+    border: 1px solid #FFF;
     padding: 8px 20px;
     color: #FFF;
     text-decoration: none;
     text-transform: uppercase;
 }
 
+/*
+@media (max-width: 576px) {
+    !*media make text center when small device "if width small than 476px"*!
+    .contact-with-us a {
+        text-align: center;
+    }
+}
+*/
+
+
 /*End Contact us*/
 
 /*Start Footer*/
-.footer{
+.footer {
     margin: 100px;
 }
 
-.footer .site-info > p{
+.footer .site-info > p {
     margin-top: 30px;
     color: #666666;
     font-size: 16px;
 }
 
-.footer .site-info .read-more:before{
+.footer .site-info .read-more:before {
     font-family: 'FontAwesome', serif;
     content: "\f138";
     display: inline-block;
@@ -515,7 +565,7 @@
     color: #08526d;
 }
 
-.footer .site-info .read-more{
+.footer .site-info .read-more {
     color: #08526d;
     text-decoration: none;
     font-size: 14px;
@@ -523,14 +573,14 @@
 }
 
 
-.footer h2{
+.footer h2 {
     color: #08526d;
     font-size: 25px;
     margin-top: 14px;
     margin-bottom: 40px;
 }
 
-.footer .helpful-links li:before{
+.footer .helpful-links li:before {
     font-family: 'FontAwesome', serif;
     content: "\f054";
     display: inline-block;
@@ -540,34 +590,38 @@
     position: relative;
     top: -1px;
 }
-.footer li{
+
+.footer li {
     color: #08526d;
     font-weight: bold;
     font-size: 14px;
     line-height: 2;
 }
 
-.footer .contact-info a{
+.footer .contact-info a {
     text-decoration: none;
     color: #08526d;
     font-weight: bold;
 }
 
-.footer .contact-info li{
+.footer .contact-info li {
     color: #666666;
     font-weight: normal;
 }
+
 /*End Footer*/
 /*Start Copy right*/
-.copy-right{
+.copy-right {
     padding: 20px 0;
     border-top: 2px solid #666666;
 }
-.copy-right li{
+
+.copy-right li {
     display: inline-block;
     margin: 0 15px;
 }
-.copy-right li i{
+
+.copy-right li i {
     color: #666666;
 }
 
