@@ -426,7 +426,9 @@ body {
 /*End Pricing*/
 
 /*Start Why choose us*/
-
+.why-choose-us{
+    background-color: #08526d;
+}
 .why-choose-us img {
     max-width: 100%;
 }
@@ -496,10 +498,70 @@ body {
     text-transform: uppercase;
 }
 
-
-
-
 /*End Contact us*/
+
+/*Start Footer*/
+.footer{
+    margin: 100px;
+}
+
+.footer .site-info > p{
+    margin-top: 30px;
+    color: #666666;
+    font-size: 16px;
+}
+
+.footer .site-info .read-more:before{
+    font-family: 'FontAwesome', serif;
+    content: "\f138";
+    display: inline-block;
+    margin-right: 5px;
+    color: #08526d;
+}
+
+.footer .site-info .read-more{
+    color: #08526d;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+.footer h2{
+    color: #08526d;
+    font-size: 25px;
+    margin-top: 14px;
+    margin-bottom: 40px;
+}
+
+.footer .helpful-links li:before{
+    font-family: 'FontAwesome', serif;
+    content: "\f054";
+    display: inline-block;
+    margin-right: 5px;
+    color: #08526d;
+    font-size: 12px;
+    position: relative;
+    top: -1px;
+}
+.footer li{
+    color: #08526d;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 2;
+}
+
+.footer .contact-info a{
+    text-decoration: none;
+    color: #08526d;
+    font-weight: bold;
+}
+
+.footer .contact-info li{
+    color: #666666;
+    font-weight: normal;
+}
+/*End Footer*/
 
 
 
