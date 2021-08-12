@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1ab7d1e-dcff-4c5b-885f-4e55749f3fc0" name="Default Changelist" comment="Bootstrap Contact us section">
+    <list default="true" id="f1ab7d1e-dcff-4c5b-885f-4e55749f3fc0" name="Default Changelist" comment="Bootstrap Footer Section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -86,7 +86,7 @@
       <workItem from="1628578068946" duration="7130000" />
       <workItem from="1628592402985" duration="4257000" />
       <workItem from="1628602143725" duration="7723000" />
-      <workItem from="1628642267636" duration="49261000" />
+      <workItem from="1628642267636" duration="49935000" />
     </task>
     <task id="LOCAL-00001" summary="Bootstrap UpperBar, NavBar and Slider">
       <created>1628651973040</created>
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628691424154</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Bootstrap Footer Section">
+      <created>1628744268370</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1628744268370</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +186,8 @@
     <MESSAGE value="Bootstrap Why choose us section" />
     <MESSAGE value="Bootstrap Statistics section" />
     <MESSAGE value="Bootstrap Contact us section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bootstrap Contact us section" />
+    <MESSAGE value="Bootstrap Footer Section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bootstrap Footer Section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="526" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1628642765498">
@@ -210,10 +218,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1628740207119" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628691425931">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628744269853">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628691425931" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628744269853" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1628636609047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

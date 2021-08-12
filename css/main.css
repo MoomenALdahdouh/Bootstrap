@@ -6,10 +6,6 @@
 */
 
 /*Start upper bar*/
-body {
-    height: 10000px;
-}
-
 .upper-bar {
     background-color: #08526d;
     color: #FFF;
@@ -562,6 +558,20 @@ body {
     font-weight: normal;
 }
 /*End Footer*/
+/*Start Copy right*/
+.copy-right{
+    padding: 20px 0;
+    border-top: 2px solid #666666;
+}
+.copy-right li{
+    display: inline-block;
+    margin: 0 15px;
+}
+.copy-right li i{
+    color: #666666;
+}
+
+/*End Copy right*/
 
 
 
